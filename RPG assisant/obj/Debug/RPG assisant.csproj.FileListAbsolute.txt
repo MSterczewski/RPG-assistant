@@ -1,0 +1,6 @@
+C:\Users\Mateus\Desktop\Programowanie\RPG assisant\RPG assisant\bin\Debug\RPG assisant.exe.config
+C:\Users\Mateus\Desktop\Programowanie\RPG assisant\RPG assisant\bin\Debug\RPG assisant.exe
+C:\Users\Mateus\Desktop\Programowanie\RPG assisant\RPG assisant\bin\Debug\RPG assisant.pdb
+C:\Users\Mateus\Desktop\Programowanie\RPG assisant\RPG assisant\obj\Debug\RPG assisant.csprojAssemblyReference.cache
+C:\Users\Mateus\Desktop\Programowanie\RPG assisant\RPG assisant\obj\Debug\RPG assisant.exe
+C:\Users\Mateus\Desktop\Programowanie\RPG assisant\RPG assisant\obj\Debug\RPG assisant.pdb
